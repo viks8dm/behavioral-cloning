@@ -2,8 +2,6 @@
 
 ##Project-3: Behavioral Cloning
 
-###Writeup author: Vikalp Mishra
-
 ---
 
 [image1]: ./images/raw_steering_distribution.jpg "Steering Angle Distribution before processing/augmentation"
